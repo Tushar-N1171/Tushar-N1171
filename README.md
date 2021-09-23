@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tushar-N1171
+- 👋 Hi, I’m Tushar Nalawade
 - 👀 I’m interested in Artificial Intelligence and Programming.
 - 🌱 I’m currently learning Web Technologies.
 
