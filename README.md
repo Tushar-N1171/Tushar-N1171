@@ -2,6 +2,8 @@
 - 👀 I’m interested in Artificial Intelligence and Programming.
 - 🌱 I’m currently learning Web Technologies.
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharnalawade11)](https://github.com/anuraghazra/github-readme-stats)
+
   
 <html>
 <body>
